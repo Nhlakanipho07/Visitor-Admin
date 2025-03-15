@@ -1,0 +1,9 @@
+env/
+draft_umuzi_visitors/
+.env
+build/
+mongo_visitor_admin.egg-info/
+data/
+__pycache__/
+.vscode/
+mongodb_data/
